@@ -1,5 +1,5 @@
 import './App.css';
-import servicesList from './servicesList';
+import ServicesList from './ServicesList';
 import Title from './Title';
 
 function App(props) {
@@ -11,7 +11,7 @@ function App(props) {
           title="My Auto Shop"
           subHeading="This is my shop"
         />
-        <servicesList serviceData={props.serviceData} />
+        <ServicesList servicesData={props.servicesData} />
       </header>
     </div>
   );

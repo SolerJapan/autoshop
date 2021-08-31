@@ -1,7 +1,7 @@
 import Service from './Service';
 
 
-function servicesList(props) {
+function ServicesList(props) {
     const ServicesData = props.servicesData;
 
     const serviceElements = [];
@@ -21,4 +21,4 @@ function servicesList(props) {
     );
 }
 
-export default servicesList;
+export default ServicesList;
