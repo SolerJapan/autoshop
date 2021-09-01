@@ -1,3 +1,7 @@
+# Note
+
+when if you copy/ clone the files over make sure to capitalize the file servicesList.js ex  servicesList.js => ServicesList.js 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
